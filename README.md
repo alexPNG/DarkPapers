@@ -22,3 +22,12 @@ Visit or add my repository to your package manager:
 - Add compatibility for iPad devices;
 - Fix zooming issue on some device models;
 - Add new wallpapers.
+
+## NOTES
+Please note that due to limitations with GitHub I had to separate the wallpapers into packs due to the sizing of the debian file. This means that an additional 10 packs will be installed with DarkPapers which is the total of the 50 wallpapers. You can uninstall the ones you don’t like as it won’t conflict with any of the other packs nor with DarkPapers. If you uninstall WallpaperLoader, both DarkPapers and all the packs will be uninstalled as well. If you uninstall DarkPapers, the packs won’t be removed except the pack that comes with DarkPapers. You can also install individual packs without needing to install DarkPapers, in case you don’t want all the wallpapers or have less space storage on your device.
+
+## Special Thanks
+Special thanks to Skittyblock for the guide on how to create these bundles for WallpaperLoader.
+
+You can check out the guide here:
+[https://github.com/Skittyblock/WallpaperLoader](https://github.com/Skittyblock/WallpaperLoader)
