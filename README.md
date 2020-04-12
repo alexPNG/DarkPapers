@@ -1,3 +1,4 @@
+[![GitHub forks](https://img.shields.io/github/license/alexPNG/Shake2Toggle.svg?style=for-the-badge)](https://github.com/alexPNG/Shake2Toggle/license) 
 # DarkPapers
 DarkPapers by alex_png - Dark mode wallpapers, but your way.
 
